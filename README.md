@@ -2,7 +2,6 @@
 # B-JMMD
 Balanced joint maximum mean discrepancy for deep transfer learning
 =======
-# BJMMD
 
 This is the transfer learning library for the following paper:
 
