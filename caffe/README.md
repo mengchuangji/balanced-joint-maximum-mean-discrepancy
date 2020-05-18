@@ -1,6 +1,6 @@
 # Deep Transfer Learning on Caffe
 
-This is a caffe library for deep transfer learning. We fork the repository with version ID `29cdee7` from [Caffe](https://github.com/BVLC/caffe) and [Xlearn](https://github.com/thuml/Xlearn) and make our modifications. The main modifications is listed as follow:
+This is a caffe library for deep transfer learning. We fork the repository with version ID `29cdee7` from [Caffe](https://github.com/BVLC/caffe) and [Xlearn](https://github.com/thuml/Xlearn), and make our modifications. The main modifications is listed as follow:
 - Add `bjmmd layer` described in paper "Balanced joint maximum mean discrepancy for deep transfer learning" (AA '2020).
 
 
