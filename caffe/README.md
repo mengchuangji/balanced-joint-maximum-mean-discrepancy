@@ -1,7 +1,7 @@
 # Deep Transfer Learning on Caffe
 
-This is a caffe library for deep transfer learning. We fork the repository with version ID `29cdee7` from [Caffe](https://github.com/BVLC/caffe) and Xlearn(https://github.com/thuml/Xlearn) and make our modifications. The main modifications is listed as follow:
-- Add `bjmmd layer` described in paper "Balanced joint maximum mean discrepancy for deep transfer learning" (AA '2012).
+This is a caffe library for deep transfer learning. We fork the repository with version ID `29cdee7` from [Caffe](https://github.com/BVLC/caffe) and [Xlearn](https://github.com/thuml/Xlearn) and make our modifications. The main modifications is listed as follow:
+- Add `bjmmd layer` described in paper "Balanced joint maximum mean discrepancy for deep transfer learning" (AA '2020).
 
 
 Data Preparation
@@ -41,12 +41,14 @@ If you want to change to other transfer tasks (e.g. `webcam` to `amazon`), you m
 
 ## Citation
 If you use this library for your research, we would be pleased if you cite the following papers:
-@article{Chuangji2020Balanced,
-  title={Balanced Joint Maximum Mean Discrepancy for Deep Transfer Learning},
-  author={Chuangji Meng and Cunlu Xu and Qin Lei and Wei Su and Jinzhao Wu},
-  journal={Analysis and Applications},
-  number={2},
-  year={2020},
-}
+```
+    @article{Chuangji2020Balanced,
+        title={Balanced Joint Maximum Mean Discrepancy for Deep Transfer Learning},
+        author={Chuangji Meng and Cunlu Xu and Qin Lei and Wei Su and Jinzhao Wu},
+        journal={Analysis and Applications},
+        number={2},
+        year={2020},
+    }
+        
 ```
    
