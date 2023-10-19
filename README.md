@@ -22,7 +22,7 @@ If you use this code for your research, please consider citing:
 
 ## Contact
 If you have any problem about our code, feel free to contact 
-- mengchj16@lzu.edu.cn
+- mengchj16@lzu.edu.cn, 4120105144@stu.edu.xjtu.cn 
 - clxu@lzu.edu.cn
 - leiqin@mail.lzjtu.cn
 
